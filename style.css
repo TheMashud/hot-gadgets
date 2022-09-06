@@ -16,7 +16,9 @@
     border: none;
     border-radius: 8px;
     color: whitesmoke;
-    padding: 8px 20px;
+    padding: 8px 25px;
+    cursor: pointer;
+    cursor: auto;
 
 }
 #categories p{
@@ -38,4 +40,26 @@
 }
 #laptop h6{
     color: orange;
+}
+.container-categories {
+    margin-bottom: 80px;
+    margin-top: 30px;
+}
+.category-item {
+    padding:  20px 20px;
+}
+
+} .title-pad {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+.categories-border {
+    border-bottom: 5px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    border-start-end-radius: 10px;
+}
+.container category{
+    padding-top: 20px;
 }
