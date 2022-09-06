@@ -1,0 +1,41 @@
+.container{
+    padding-top: 50px;
+}
+.stnav{
+
+}
+.product{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+}
+.text-bg{
+
+}
+.Buy-now-button{
+    background-color: black;
+    border: none;
+    border-radius: 8px;
+    color: whitesmoke;
+    padding: 8px 20px;
+
+}
+#categories p{
+    color: gray;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 8px rgb(142, 122, 122);
+}
+.card-footer{
+    border: none;
+    background-color: white;
+    border-top: none;
+    border-radius: 10px;
+
+}
+#smartphone h6{
+    color: orange;
+}
+#laptop h6{
+    color: orange;
+}
